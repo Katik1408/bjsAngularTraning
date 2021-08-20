@@ -1,0 +1,117 @@
+HTML
+
+-------------
+
+Tim Berners Lee
+
+HTML1.0 , HTML3.0 , XHTML , HTML4.0 , HTML 4.0.1 , HTML5
+
+
+<!doctype HTML>
+	<html>
+		<head>
+			title of the web app
+			<title> My First Web Application </title>
+			css
+			js
+			third party libraries   ----> Bootstrap
+		</head>		
+		
+		<body>
+			which is responsible to display the entire webpages
+
+			js
+		</body>
+
+	</html>
+
+Lists
+Table
+div
+span
+Anchor
+
+
+Lists
+-----
+
+2 Types of List in HTML
+
+a. Ordered List
+b. Unodered List
+
+
+	<ol  type = 'A' >
+		<li> Facebook </li>		
+		<li> Apple </li>
+		<li> Amazon </li>
+		<li> Netflix </li>
+		<li> Google </li>
+	</ol>
+	<div>
+	</div>
+
+
+
+<ul>
+		<li> Facebook </li>		
+		<li> Apple </li>
+		<li> Amazon </li>
+		<li> Netflix </li>
+		<li> Google </li>
+</ul>
+
+
+
+
+Facebook  ----> List item  li
+Apple     ----> List item
+Amazon
+Netflix
+Google
+
+
+
+Attributes in HTML Elements
+  
+<element  name_of_attr = 'value' > Some data </element>
+
+
+
+
+
+Table
+
+	<table>
+		<tr>
+			<td>
+				Username
+			</td>
+
+			<td>
+				Email Ids
+			</td>
+		</tr>
+		<tr>
+			<td> 
+				John
+			</td>	
+			<td>
+				john@gmail.com
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Josh
+			</td>
+			<td>
+				josh@gmail.com
+			</td
+			
+		</tr>
+
+</table>
+
+
+
+
