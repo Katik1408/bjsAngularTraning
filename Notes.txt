@@ -115,3 +115,36 @@ Table
 
 
 
+SPA ----> Single Page Application  ---> Single DOM Tree
+
+MPA ----> Multi Page Application ----> Multiple DOM Tree
+
+
+http://127.0.0.1:5500/register.html
+
+
+http ===> Hyper Text Trasfer Protocol
+
+https --> Secure ===> Secure Socket Layer
+
+
+127.0.0.1 : 5500 ====> HostName + PortNumber
+
+Route ---> Register.html / index.html 
+
+
+
+
+Hit the Submit button
+
+http:127.0.0.1:5500/register.html?fname=Josh&lname=alice
+
+?fname=Josh&lname=alice ====> Query String
+
+fname=sdvn ===> Query Parameter
+key=value  ==> QP
+
+http://localhost:5500/register.html?key=value&key=value&key=value
+
+
+
