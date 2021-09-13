@@ -1,0 +1,19 @@
+p {
+    color: #1a237e;
+    font-size: 60px;
+  }
+
+  .customClass {
+    color: yellow;
+    border: 5px solid red;
+    margin-top: 45px;
+  }
+
+  #customId {
+    font-size: 40px;
+  }
+
+  * {
+    margin: 50px;
+    font-family: "Courier New", Courier, monospace;
+  }
